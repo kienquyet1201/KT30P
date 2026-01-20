@@ -10,17 +10,20 @@ body {
     background-color: #C0392B;
     color: white;
     align-items: center;
-    padding-left: 250px;
+    /* padding-left: 250px; */
 }
 
 .text-a {
-    padding-right: 500px;
+    /* padding-right: 500px; */
 }
 
 .text-a a {
     text-decoration: none;
     color: white;
     padding: 15px;
+}
+.text-a{
+    margin-right: 200px;
 }
 
 .content {
@@ -54,6 +57,7 @@ body {
 }
 .menu img{
     height: 180px;
+    border-radius: 10px;
 }
 .menu-all h2{
     text-align: center;
@@ -78,4 +82,7 @@ footer{
     background-color: #2C2C2C;
     color: white;
     height: 78px;
+}
+.taskbar h2{
+    margin-left: 250px;
 }
